@@ -1,5 +1,8 @@
 ## TENTATIVE, ADD MORE
 
+# Discuss retrospective validation results
+
+
 # Current progress on Nature-2026 model runs
 
 Some work well some not (but TORM does help in those cases a little0, **update with a table**
