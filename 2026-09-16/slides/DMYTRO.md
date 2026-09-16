@@ -11,6 +11,7 @@ Some work well some not (but TORM does help in those cases a little0, **update w
 
 (sent the instructions to Slack, cannot do myself due to permissions)
 
+<img src="IMG/add_workbench_billing.png" alt="Image" width="90%">
 
 # Possible revisiting of ASD
 
