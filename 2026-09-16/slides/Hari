@@ -6,8 +6,6 @@ Sep 16, 2026 (Summaries from the week)
 
 3) C++ based LSM code is ready to run. Next, we would want to make a package out of it so that it is easily accessible. 
 
-4) From my runs so far, GSS takes 39 minutes to run with 64 threads and 212 minutes with 8 threads. 
-
 5) I am going to run these code with other available data too and do some stability plots. 
 
 5) Read "How much data do you need" paper. I have some minor commments there. 
