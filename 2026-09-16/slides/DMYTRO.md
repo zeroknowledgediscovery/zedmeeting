@@ -17,6 +17,9 @@ AUC was **0.753 ± 0.002**, compared with **0.749 ± 0.004** in the clinical stu
 | NPV at 99% specificity | 0.866 ± 0.001 | 0.882 |
 | NPV at 99.5% specificity | 0.863 ± 0.001 | 0.879 |
 
+* **Do we do IPF validation as well? It was not the goal of the validation iirc**
+* **Deployment team now wants to do the quasi-prospective validation with all patients cut at absolute dates. What do we do with that?**
+
 # Current progress on Nature-2026 model runs
 
 | Status | Condition | Age | Target | Their AUC | Our AUC |
@@ -50,7 +53,7 @@ Awaiting Ishanu
 
 # AoU Genomics IPF
 
-What model do I share and how? Packed one?
+What model do I share with Harini for AllOfUs and how? Packed one?
 
 # NHPF stuck on lack of billing account for AoU 
 
@@ -82,9 +85,15 @@ _**Potential collaborator? Could re-launch the pediatric data and see what we ge
 
 And I think TORM can be especially nicely working in fixed age-timeline settings of pediatric runs
 
+# Miscellaneous TODOs
+
+* TORM Sciency writeup
+
+* HHMI Fellowship when less swamped (Deadline October 20)
+
 # Haven't Heard In A While:
 
-* SISA stuff
+* SISA/VA stuff
 
 * Cardio stuff (CVD, HFrEF etc)
 
