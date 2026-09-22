@@ -16,7 +16,7 @@
 # Cosmos File Transfers:
 
 * NHPF (IN, #1799) -- sent out files, waiting for loading, last email MON
-* SISA (IN, #1694) -- sent out files, they seem to be reviewing the files, followed up TUE
+* SISA (IN, #1694) -- sent out files, they seem to be reviewing the files, followed up TUE (responded, ETA end of week, duh)
 
 # NHPF *_still_* stuck on lack of billing account for AoU
 
