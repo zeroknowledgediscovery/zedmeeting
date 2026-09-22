@@ -62,7 +62,6 @@ What model do I share with Harini for AllOfUs and how? Packed one?
 <img src="IMG/add_workbench_billing.png" alt="Image" width="90%">
 
 
-
 # What's up with Lambda-Odds-Ratio paper?
 
 Anything for me to do?
