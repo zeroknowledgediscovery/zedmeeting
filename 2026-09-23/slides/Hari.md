@@ -5,7 +5,7 @@ AJE paper is ready to submit.
 Correlation matrix for a nonnumeric data?
 
 <p align="center">
-  <img src="IMG/gss_pert.pdf" width="600">
+  <img src="IMG/gss_pert.png" width="600">
   <br>
   <em>Figure 1: Stability for the GSS 2018 dataset.</em>
 </p>
