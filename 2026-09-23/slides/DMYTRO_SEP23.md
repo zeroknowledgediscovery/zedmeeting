@@ -1,8 +1,15 @@
 # <span style="color: #ff160a">TODO ::</span>
 
-* Summarize PACE-UKHC meeting here
 * Nature-2026 updated table and perf plots
+* TORM latex writeup
+-----
+* COPD but closer prog  horizons
+* Cosmos prevals
 
+prevalence of COPD, ILD, Lung cancer, and number of cases over time for last 5 years 
+Number of lung cancer screenings per year (maybe last few years)
+
+Need for KY and overall
 
 ------------
 ------------
