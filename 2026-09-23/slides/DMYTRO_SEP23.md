@@ -44,37 +44,63 @@
 # Cosmos Pulmonary prevalences
 ### **Cosmos SneakPeek numbers multiplied by 100**
 
-### Adult disease prevalence, 2021–2026
+### Pulmonary disease prevalence among active patients aged 50–85, 2021–2026
 
-| Geography | Active adult population | COPD cases | COPD prevalence | ILD cases | ILD prevalence | Lung cancer cases | Lung cancer prevalence |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Kentucky | 2,704,100 | 226,300 | 8.369% | 41,800 | 1.546% | 33,100 | 1.224% |
-| United States | 174,594,900 | 8,664,400 | 4.963% | 2,024,800 | 1.160% | 1,319,400 | 0.756% |
+| Characteristic | Kentucky | US |
+|---|---:|---:|
+| Active patients age 50–85, 2021–2026 | 1,369,500 | 87,039,700 |
+| COPD cases | 198,400 | 7,500,700 |
+| COPD prevalence | 14.487% | 8.618% |
+| Emphysema cases | 84,000 | 3,587,600 |
+| Emphysema prevalence | 6.134% | 4.122% |
+| Asthma cases | 131,300 | 7,872,500 |
+| Asthma prevalence | 9.587% | 9.045% |
+| Bronchiectasis cases | 13,400 | 813,500 |
+| Bronchiectasis prevalence | 0.978% | 0.935% |
+| ILD cases | 34,400 | 1,632,700 |
+| ILD prevalence | 2.512% | 1.876% |
+| IPF cases | 2,600 | 145,300 |
+| IPF prevalence | 0.190% | 0.167% |
+| Pulmonary embolism cases | 26,500 | 1,564,300 |
+| Pulmonary embolism prevalence | 1.935% | 1.797% |
+| Pulmonary hypertension cases | 51,700 | 2,819,400 |
+| Pulmonary hypertension prevalence | 3.775% | 3.239% |
+| Lower respiratory tract infection cases | 227,400 | 9,753,100 |
+| Lower respiratory tract infection prevalence | 16.605% | 11.205% |
+| Pneumonia cases | 139,300 | 6,691,700 |
+| Pneumonia prevalence | 10.172% | 7.688% |
+| Lung cancer cases | 30,000 | 1,177,100 |
+| Lung cancer prevalence | 2.191% | 1.352% |
+| Respiratory failure cases | 130,300 | 6,172,500 |
+| Respiratory failure prevalence | 9.514% | 7.092% |
+| Pleural effusion cases | 58,100 | 3,272,100 |
+| Pleural effusion prevalence | 4.242% | 3.759% |
+| ARDS cases | 3,300 | 211,800 |
+| ARDS prevalence | 0.241% | 0.243% |
 
-### Lung cancer screening by year
+### Lung cancer screening by year, age 50–85
 
 | Geography | Year | Screening events | Patients screened |
 |---|---:|---:|---:|
-| Kentucky | 2021 | 38,200 | 20,000 |
-| Kentucky | 2022 | 50,100 | 25,300 |
-| Kentucky | 2023 | 62,300 | 31,500 |
+| Kentucky | 2021 | 38,000 | 19,900 |
+| Kentucky | 2022 | 49,900 | 25,200 |
+| Kentucky | 2023 | 62,100 | 31,400 |
 | Kentucky | 2024 | 68,700 | 34,800 |
 | Kentucky | 2025 | 72,400 | 35,700 |
-| Kentucky | 2026 | 57,100 | 27,900 |
-| United States | 2021 | 735,000 | 434,100 |
-| United States | 2022 | 1,011,000 | 593,700 |
-| United States | 2023 | 1,333,500 | 789,600 |
-| United States | 2024 | 1,663,300 | 968,200 |
-| United States | 2025 | 1,953,800 | 1,123,900 |
-| United States | 2026 | 1,473,300 | 837,600 |
+| Kentucky | 2026 | 56,900 | 27,800 |
+| US | 2021 | 734,200 | 433,700 |
+| US | 2022 | 1,007,800 | 591,600 |
+| US | 2023 | 1,330,100 | 787,300 |
+| US | 2024 | 1,659,200 | 965,400 |
+| US | 2025 | 1,947,700 | 1,120,000 |
+| US | 2026 | 1,469,700 | 835,200 |
 
-### Total lung cancer screening, 2021–2026
+### Total lung cancer screening, 2021–2026, age 50–85
 
 | Geography | Screening events | Unique patients screened |
 |---|---:|---:|
-| Kentucky | 348,800 | 85,600 |
-| United States | 8,169,900 | 2,582,500 |
-
+| Kentucky | 348,000 | 85,200 |
+| US | 8,148,700 | 2,572,200 |
 
 # Cosmos File Transfers:
 
