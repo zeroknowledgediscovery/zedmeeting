@@ -24,8 +24,37 @@
 
 <img src="IMG/COPD_PERF.png" alt="Image" width="95%">
 
-**A model is training: J41-J44 --> J44.0/1**
+**For PROGRESSION model: J41-J44 --> J44.0/1 (in 1 day to 1 year):**
 
+### <span style="color: #ff4823">TODO : Perf for up to 1/3/6/9 months</span>
+
+```
+AUC: 0.72778
+==
+PREDICTIONS:
+346579 (30117 POS, 316462 NEG)
+Prevalence in Data: 8.69%
+Males:
+AUC: 72.7% (72.2%, 73.2%)
+@ 95% Specificity:
+Sensitivity: 20.2% (19.5%, 20.9%)
+Positive LR: 4.04 (3.83, 4.26)
+Negative LR: 0.84 (0.83, 0.85)
+@ 99% Specificity:
+Sensitivity: 5.8% (5.4%, 6.2%)
+Positive LR: 5.78 (5.15, 6.49)
+Negative LR: 0.95 (0.95, 0.96)
+Females:
+AUC: 72.8% (72.4%, 73.3%)
+@ 95% Specificity:
+Sensitivity: 20.6% (19.9%, 21.2%)
+Positive LR: 4.11 (3.90, 4.33)
+Negative LR: 0.84 (0.83, 0.84)
+@ 99% Specificity:
+Sensitivity: 6.4% (6.0%, 6.8%)
+Positive LR: 6.41 (5.75, 7.14)
+Negative LR: 0.95 (0.94, 0.95)
+```
 
 
 
