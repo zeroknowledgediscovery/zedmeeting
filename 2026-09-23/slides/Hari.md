@@ -4,4 +4,4 @@ AJE paper is ready to submit.
 
 Correlation matrix for a nonnumeric data?
 
-![Stabilty distribution](images/gss_pert.pdf)
+![Stabilty distribution](IMG/gss_pert.pdf)
