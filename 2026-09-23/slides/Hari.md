@@ -1,4 +1,4 @@
-Sep 16, 2026 (Summaries from the week)
+Sep 23, 2026 (Summaries from the week)
 
 AJE paper is ready to submit.
 
