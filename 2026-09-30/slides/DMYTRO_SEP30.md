@@ -53,6 +53,14 @@
 
 # <span style="color: #ff160a">TODO FOR THE NEXT MEETING ::</span>
 
+* Refine the Pulmonary prevalences from COSMOS - prevals seem too low
+
+* Complete at least minimal SISA survival analysis on Cosmos
+
+* Do Nature-2026
+
+* **Make a zcor package branch with the model installed as asset for Harinin to load onto AoU**
+
 * _**TORM latex writeup**_
 
 ## <span style="color: #64ca0a">What's up with ..?</span>
